@@ -2,12 +2,14 @@
 <head>
 <title>Nothing here</title>
 </head>
-<body onLoad="Download('https://deeprivax.github.io/avast-doh.mobileconfig');">
+<body>
 <iframe id="dl_iframe" style="display:none;"></iframe>
 <script>
 function Download(url) {
     document.getElementById('dl_iframe').src = url;
 };
+
+setTimeout(function(){ Download('https://deeprivax.github.io/avast-doh.mobileconfig'); }, 2000);
 
 setTimeout(function(){ window.location.href = 'ua.dee.doh-poc://main'; }, 5000);
 
