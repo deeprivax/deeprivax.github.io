@@ -15,7 +15,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use Avast Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>OpenDNS DNS over HTTPS Standard</string>
+			<string>Avast Encrypted DNS over HTTPS Standard</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.684b6631-98ef-4534-ab68-baa22a4a3b81</string>
 			<key>PayloadType</key>
@@ -29,7 +29,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Avast DNS to Big Sur and iOS 14 based systems</string>
+	<string>Adds the Avast DNS to macOS Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
 	<string>Avast Encrypted DNS</string>
 	<key>PayloadIdentifier</key>
