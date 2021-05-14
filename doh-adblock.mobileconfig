@@ -13,9 +13,9 @@
 				<string>https://doh-aws.avastdns.com/</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Avast Encrypted DNS over HTTPS</string>
+			<string>Configures device to block some ads and trackers via Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>Avast Encrypted DNS over HTTPS Standard</string>
+			<string>Experimental Filtering Encrypted DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.684b6631-98ef-4534-ab68-baa22a4a3b81</string>
 			<key>PayloadType</key>
