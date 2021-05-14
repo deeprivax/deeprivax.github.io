@@ -29,9 +29,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Avast DNS to macOS Big Sur and iOS 14 based systems</string>
+	<string>Adds the trackinig and ad-blockiing DNS to macOS Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>Avast Encrypted DNS</string>
+	<string>Tracking filtering Encrypted DNS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.avast.avastdns</string>
 	<key>PayloadRemovalDisallowed</key>
